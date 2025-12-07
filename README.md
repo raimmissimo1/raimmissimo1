@@ -47,8 +47,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=LinkedIn)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:raiymbekkasymbekov2007@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=LinkedIn)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/raiymbek-kassymbekov-796472395/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:rohakassimbekov@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=GitHub\&logoColor=white)](https://github.com/raimmissimo1)
 
 ---
