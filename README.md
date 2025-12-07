@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raimmissimo1\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raimmissimo1\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🚀 Featured Data Science Projects
 
 * **🎯 Student Exam Performance Prediction Model** — ML classification model reaching 90% accuracy.
