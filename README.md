@@ -1,49 +1,68 @@
-# 👋 Hi, I'm Raiymbek Kassymbekov
-
-🎓 18 y.o. from Kazakhstan | **Data Scientist** & ML Enthusiast
-💡 Passionate about **Machine Learning, Data Analytics, Deep Learning, and MLOps**
+👋 Hi, I'm Raiymbek Kassymbekov
+🎓 18 y.o. from Kazakhstan | Data Scientist & ML Enthusiast
+💡 Passionate about Machine Learning, Data Analytics, Deep Learning, and MLOps
 🚀 Always improving skills, doing real-world projects, and exploring AI research
 
----
+🛠 Tech Stack (Data Science Focus)
+Core Languages & Databases:
+https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white
+https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white
 
-## 🛠 Tech Stack (Data Science Focus)
+Data Science & ML Tools:
+https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy
+https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas
+https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=plotly
+https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat
+https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white
+https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white
+https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter
 
-**Core Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat\&logo=Python\&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat\&logo=postgresql\&logoColor=white)
+Data Engineering & Infrastructure:
+https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white
+https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white
+https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white
+https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black
+https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white
+https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white
 
-**Data Science & ML Tools:**
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat\&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat\&logo=plotly)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?style=flat)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat\&logo=Jupyter)
+PostgreSQL Skills:
 
-**Data Engineering & Deployment:**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat\&logo=Git\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=Docker\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat\&logo=fastapi\&logoColor=white)
+Database design & normalization
 
----
+Complex SQL queries & optimization
 
-## 🚀 Featured Data Science Projects
+Window functions, CTEs, indexing
 
-* **🎯 Student Exam Performance Prediction Model** — ML classification model reaching 90% accuracy.
-* **📈 Movie Ratings Analysis** — Exploratory data analysis + regression model for IMDb score prediction.
-* **🧠 Neural Network Projects** — Experiments with CNNs, NLP models, and training optimization.
-* **📦 Data Processing Pipeline** — ETL + preprocessing + model training automation.
+Data warehousing concepts
 
----
+pgAdmin & psql CLI
 
-## 📫 Connect with Me
+Linux/Ubuntu Skills:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat\&logo=LinkedIn)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/raiymbek-kassymbekov-796472395/))
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat\&logo=Gmail\&logoColor=white)](mailto:rohakassimbekov@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=GitHub\&logoColor=white)](https://github.com/raimmissimo1)
+Bash scripting & automation
 
----
+System administration basics
 
-⭐️ *Building my path in Data Science—one project at a time.*
+Process management & monitoring
+
+File permissions & security
+
+Server deployment & maintenance
+
+🚀 Featured Data Science Projects
+🎯 Student Exam Performance Prediction Model — ML classification model reaching 90% accuracy with PostgreSQL backend
+
+📈 Movie Ratings Analysis — EDA + regression model with data stored & processed in PostgreSQL
+
+🧠 Neural Network Projects — CNN/NLP models deployed with Docker on Ubuntu servers
+
+📦 Data Processing Pipeline — ETL automation using Python, PostgreSQL, and Linux cron jobs
+
+🔍 SQL Data Analysis — Complex business analytics with window functions and query optimization
+
+📫 Connect with Me
+https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn
+https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white
+https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white
