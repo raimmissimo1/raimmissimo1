@@ -1,4 +1,4 @@
-# github.com/rainmissionol
+# github.com/raimmissiono
 
 ## Hi, I’m Raiymbek Kassymbekov
 18 y.o. from Kazakhstan | Data Scientist & ML Enthusiast  
