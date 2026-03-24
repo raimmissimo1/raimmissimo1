@@ -71,14 +71,14 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 
 
 ### 📊 Data Science Skills:
-- Linear Algebra (vectors, matrices, eigenvalues)
-- Probability Theory & Statistics
-- Data Analysis & Visualization
-- Feature Engineering & Data Preprocessing
-- Machine Learning fundamentals (supervised)
-- Model evaluation & validation (cross-validation, metrics)
-- Natural Language Processing (NLP basics)
-- Python for Data Science (NumPy, Pandas, scikit-learn)
+- Linear Algebra for ML (vectors, matrices, eigen decomposition)
+- Probability & Statistics (distributions, hypothesis testing)
+- Data Analysis & Visualization (Pandas, Matplotlib, Seaborn)
+- Feature Engineering & Data Cleaning
+- Machine Learning (regression, classification, clustering)
+- Model Evaluation (ROC-AUC, F1-score, cross-validation)
+- Natural Language Processing (text preprocessing, embeddings basics)
+- Python for Data Science ecosystem
 
 ---
 
