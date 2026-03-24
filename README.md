@@ -49,7 +49,7 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 
 ---
 
-### Linux & DevOps Skills:
+### DevOps Skills:
 - Bash scripting & automation
 - Linux system administration basics
 - Process & service management (systemd)
@@ -65,6 +65,20 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 - Solved real-world Linux/DevOps incidents (SadServers)
 - Debugged HTTPS, SSL certificates, and port conflicts
 - Deployed FastAPI services in Linux environments
+
+---
+
+---
+
+### 📊 Data Science Skills:
+- Linear Algebra (vectors, matrices, eigenvalues)
+- Probability Theory & Statistics
+- Data Analysis & Visualization
+- Feature Engineering & Data Preprocessing
+- Machine Learning fundamentals (supervised)
+- Model evaluation & validation (cross-validation, metrics)
+- Natural Language Processing (NLP basics)
+- Python for Data Science (NumPy, Pandas, scikit-learn)
 
 ---
 
