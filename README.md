@@ -57,6 +57,7 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 - Docker image building & container debugging
 - Static app deployment with Nginx
 - Debugging real infrastructure issues (logs, permissions, certificates)
+- CI/CD pipelines
 
 ---
 
@@ -68,7 +69,6 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 
 ---
 
----
 
 ### 📊 Data Science Skills:
 - Linear Algebra (vectors, matrices, eigenvalues)
@@ -83,6 +83,5 @@ Interested in Data Science, MLOps, and practical DevOps engineering.
 ---
 
 ### 📚 Currently Learning:
-- CI/CD pipelines
 - Kubernetes fundamentals
 - MLOps & production ML systems
